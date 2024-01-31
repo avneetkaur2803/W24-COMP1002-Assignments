@@ -4,16 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> OK NOT TO BE OKAY By Marshmello and Demi Lovato </title>
+    <!--Author of the document-->
+    <meta name="author" content="Avneet Kaur">
+    <!--Description of the document-->
+    <meta name="description" content="Lyrics of  the song 'OK NOT TO BE OKAY' by Marshmello and Demi Lovato.">
+    <!-- Keywords related to the document-->
+    <meta name="keywords" content="OK NOT TO BE OKAY, Marshmello, Demi Lovato, lyrics">
+    <!-- Setting the character set and language--> 
+    
 </head>
 <body>
     <h1> OK NOT TO BE OKAY </h1>
-    <p>Feeling like a drop in the ocean
+    <h2> By Marshmello and Demi Lovato  </h2>
+
+        <p>Feeling like a drop in the ocean
         That don't nobody notice
         Maybe it's all just in your head
         Feeling like you're trapped in your own skin
         And now your body's frozen
-        Broken down, you've got nothing left
-        When you're high on emotion
+        Broken down, you've got nothing left.</p>
+
+       <p> When you're high on emotion
         And you're losing your focus
         And you feel too exhausted to pray
         Don't get lost in the moment
@@ -22,14 +33,16 @@
         It's okay not to be okay
         It's okay not to be okay
         When you're down and you feel ashamed
-        It's okay not to be okay
-        Feeling like your life's an illusion
+        It's okay not to be okay .</p>
+
+        <p>Feeling like your life's an illusion
         And lately, you're secluded
         Thinking you'll never get your chance
-        Feeling like you got no solution
+        Feeling like you got no solution . 
         It's only 'cause you're human
-        No control, it's out of your hands
-        When you're high on emotion
+        No control, it's out of your hands . </p>
+        
+        <p>When you're high on emotion
         And you're losing your focus
         And you feel too exhausted to pray
         Don't get lost in the moment
@@ -52,6 +65,6 @@
         It's okay not to be okay (no, no)
         It's okay not to be okay
          </p>
-    
+         <a href="https://youtu.be/SXGMWuJZeeo?si=B4RuaO2jybnfZ1KJ">Here's the link to the song video</a>
 </body>
 </html>
