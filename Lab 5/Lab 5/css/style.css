@@ -1,0 +1,71 @@
+/* Exercise Two: Add Divider Lines to Menu Items */
+nav menu li:not(:last-child) {
+    border-right: 1px solid #ccc;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+
+/* Exercise Three: Add Font to All H Elements */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Exercise Four: Change Font Color and Background Image for Contrast */
+.section-four {
+    color: #ffffff;
+    background-image: url('https://via.placeholder.com/1200x300');
+    background-size: cover;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+/* Exercise Five: Make Header Stay at the Top of the Viewport */
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #f8f8f8;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    z-index: 1000;
+}
+
+/* Exercise Six: Add Background-Color and Clip-Path to Second Section */
+section:nth-of-type(2) {
+    background-color: #f2f2f2;
+    clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);
+    padding: 20px;
+}
+
+/* Exercise Seven: Create a Simple Call to Action (CTA) */
+.cta {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+.cta .btn {
+    background-color: #FF4500;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+/* Exercise Eight: Change Background Color for Viewports Less than 550px */
+@media (max-width: 550px) {
+    section:nth-of-type(2) {
+        background-color: #ffeb3b;
+    }
+}
+
+/* Exercise Nine: Add Enhancement to an Existing Element */
+.element {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    transition: box-shadow 0.3s ease;
+}
+.element:hover {
+    box-shadow: 0 8px 16px rgba(0,0,0,0.4);
+}
